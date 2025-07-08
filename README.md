@@ -69,3 +69,4 @@ Make sure your CSV includes the following columns:
 - browser
 - sex
 
+[![Fraud Dashboard](https://raw.githubusercontent.com/jayesh0725/fraud-detection-ml/main/frauddashboard.png)
